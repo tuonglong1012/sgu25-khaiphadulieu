@@ -1,0 +1,11 @@
+Model: Voting Ensemble
+Accuracy on X_val: 0.7972
+
+                precision    recall  f1-score   support
+
+Không sống sót       0.83      0.84      0.83        85
+      Sống sót       0.75      0.74      0.75        58
+
+      accuracy                           0.80       143
+     macro avg       0.79      0.79      0.79       143
+  weighted avg       0.80      0.80      0.80       143
